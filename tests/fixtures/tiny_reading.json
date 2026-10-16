@@ -1,0 +1,11 @@
+{
+  "name": "Synthetic test reading",
+  "author": "Night Shift fixture",
+  "year": 2026,
+  "citation": "Synthetic test fixture; not a published reading.",
+  "sign_list": "SYNTH",
+  "language": "synthetic",
+  "values": {"S1": "ka", "S2": "ma", "S3": "ta", "S4": "ri", "S5": "nu", "S6": "pa"},
+  "lexicon": ["ka-ma", "ta-ri-nu"],
+  "notes": "ka-ma renders the S1,S2 bigram (T1, T2, T3); ta-ri-nu renders the S3,S4,S5 trigram (T1, T4) of tiny_corpus.json."
+}
