@@ -1,0 +1,15 @@
+{
+  "source": "synthetic test fixture",
+  "license": "CC0",
+  "sign_list": "SYNTH",
+  "inscriptions": [
+    {"id": "T1", "site": "A", "signs": ["S1", "S2", "S3", "S4", "S5"]},
+    {"id": "T2", "site": "A", "signs": ["S1", "S2", "S6"]},
+    {"id": "T3", "site": "B", "signs": ["S6", "S1", "S2", "S7"]},
+    {"id": "T4", "site": "B", "signs": ["S3", "S4", "S5", "S8"]},
+    {"id": "T5", "site": null, "signs": ["S9", "S6"]},
+    {"id": "T6", "site": "C", "signs": ["S10", "S6", "S6"]},
+    {"id": "T7", "site": "C", "signs": ["S7", "S8"]},
+    {"id": "T8", "site": "A", "signs": ["S2", "S1", "S9"]}
+  ]
+}
