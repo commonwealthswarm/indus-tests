@@ -1,0 +1,17 @@
+{
+  "name": "Parpola 2011 crocodile-related proposal (documented subset)",
+  "author": "Asko Parpola",
+  "year": 2011,
+  "citation": "Parpola, Asko. 2011. Crocodile in the Indus Civilization and later South Asian traditions. In Toshiki Osada and Hitoshi Endo (eds.), Linguistics, Archaeology and the Human Past, Occasional Paper 12, pp. 1-57. Kyoto: Indus Project, Research Institute for Humanity and Nature. ISBN 978-4-902325-67-6. https://www.harappa.com/sites/default/files/pdf/Parpola_Asko_2011._Crocodile_in_the_Indu.pdf (accessed 2026-10-16).",
+  "sign_list": "P94",
+  "language": "Proto-Dravidian (proposed)",
+  "values": {
+    "88": [
+      "kōḷ",
+      "koḷ"
+    ],
+    "101": "val"
+  },
+  "lexicon": [],
+  "notes": "Value references: sign 88, printed p. 44, paragraph discussing the crab sign, explicitly gives alternatives kōḷ and koḷ; both retain retroflex ḷ. Sign 101, printed pp. 44-45, is provisionally assigned val. P94 is this repository's label for the sign list in Parpola, Deciphering the Indus Script (1994), Figure 5.1; the 2011 chapter's Figures 59 and 60 explicitly cite that list for these identifiers. Keys are the author's decimal numbers as strings. P94 is not M77, and no crosswalk is asserted. The reconstruction asterisk is omitted from the stored sound values. This is a partial, tentative proposal. Other or uncertain identifications are omitted; no fish-sign number is guessed. Lexicon is empty and no inscription sequences are included."
+}
