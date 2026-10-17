@@ -1,0 +1,15 @@
+{
+  "name": "Mahadevan 2006 muruku proposal (documented subset)",
+  "author": "Iravatham Mahadevan",
+  "year": 2006,
+  "citation": "Mahadevan, Iravatham. 2006. A Note on the Muruku Sign of the Indus Script in light of the Mayiladuthurai Stone Axe Discovery. Harappa.com, May 2006. https://www.harappa.com/content/arrow/stone_celt_indus_signs.html (accessed 2026-10-16).",
+  "sign_list": "M77",
+  "language": "Dravidian (proposed; Old Tamil comparisons)",
+  "values": {
+    "47": "muruku",
+    "48": "muruku",
+    "342": "-an"
+  },
+  "lexicon": [],
+  "notes": "Source locators: signs 47 and 48, opening paragraph of the article body, which explicitly names Mahadevan 1977 numbering and the proposed muruku identification; sign 342, the article-body paragraph explicitly naming sign 342, which explicitly assigns the jar the value -an. The leading hyphen marks the author's suffix notation and is retained. Keys are the author's decimal sign numbers as strings, not synthetic S-prefixed identifiers. This file records a small subset of tentative hypotheses, not an established decipherment or the author's complete system. The author expressly leaves other values unknown; they and any uncertain sign identifications are omitted. No inscription sequence is included. Lexicon is empty; no words have been inferred from the combined mappings."
+}
