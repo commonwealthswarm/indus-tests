@@ -1,0 +1,11 @@
+{
+  "name": "Mismatched test reading",
+  "author": "Night Shift fixture",
+  "year": 2026,
+  "citation": "Synthetic test fixture; not a published reading.",
+  "sign_list": "M77",
+  "language": "synthetic",
+  "values": {"1": "xa"},
+  "lexicon": [],
+  "notes": "Synthetic reading whose sign_list deliberately differs from tiny_corpus.json (SYNTH), so the report must skip it. Not a published value."
+}
