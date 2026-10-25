@@ -88,7 +88,8 @@ For example, if `S1` = `ka` and `S2` = `ma` and the lexicon contains
 
 The first five metrics describe how much of the corpus a reading covers and
 how tidily it does so. They say nothing about whether its values are right:
-any arbitrary assignment of values to the same signs gets the same numbers.
+any shuffle of the same values among the same signs gets the same numbers
+(see the multi-valued caveat below).
 
 ## The shuffled null baseline
 
@@ -140,6 +141,8 @@ A synthetic example (see `tests/fixtures/tiny_reading.json`):
 
 ## Documents
 
+- [docs/TEST_BENCH.md](docs/TEST_BENCH.md): every component, its files and
+  how they connect.
 - [docs/CORPUS_FORMAT.md](docs/CORPUS_FORMAT.md): corpus JSON schema and
   reading-order convention.
 - [docs/READINGS_FORMAT.md](docs/READINGS_FORMAT.md): reading JSON schema.
